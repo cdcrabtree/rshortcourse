@@ -1,2 +1,2 @@
-# rworkshop
-Code and materials from an introduction to R workshop
+# rshortcourse
+Code and materials from an Introduction to R Short Course taught at Uppsala University.
